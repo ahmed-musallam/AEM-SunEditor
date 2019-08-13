@@ -15,7 +15,6 @@
     ]
     });
     SUN.suneditor.onChange = function (contents) { 
-      console.log('change! ' + new Date())
       SUN.suneditor.save(); // save on change, always.
     }
   });
