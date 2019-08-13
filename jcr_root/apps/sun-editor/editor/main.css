@@ -1,0 +1,8 @@
+/* override font location for AEM */
+@font-face {
+  font-family: Suneditor-icon;
+  src: url(resources/fonts/655623c4c2d6d9092ba9f381e4042e8f.eot);
+  src: url(resources/fonts/655623c4c2d6d9092ba9f381e4042e8f.eot?#iefix) format("embedded-opentype"),url(resources/fonts/688522218ec6987e6fada6a165d490d7.woff2) format("woff2"),url(resources/fonts/8a2aa4c9fcb1e8fbf45305679b8f7a0e.woff) format("woff"),url(resources/fonts/d314a75b315393089036e8be6f1e5965.ttf) format("truetype"),url(resources/fonts/52b28fecb3b9616a5154d0226058600e.svg#Glyphter) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
