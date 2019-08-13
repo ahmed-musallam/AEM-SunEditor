@@ -32,5 +32,5 @@ Here is a sample `cq:dialog`:
 **The important parts are:**
 
 1. on `cq:dialog` node, add `extraClientlibs="[suneditor]"`
-2. create a text are field: `sling:resourceType="granite/ui/components/coral/foundation/form/textarea"`
+2. create a text area field: `sling:resourceType="granite/ui/components/coral/foundation/form/textarea"`
 3. set `granite:id="suneditor"` on the text area.
