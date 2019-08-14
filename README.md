@@ -5,6 +5,14 @@ Enables using [http://suneditor.com](http://suneditor.com) in AEM dialogs as an 
 
 ![](docs/suneditor-dialog.png)
 
+## Deploy the code
+
+### From source
+`mvn clean install -PautoInstallPackage`
+
+### pre-built package
+get the latest from [releases](https://github.com/ahmed-musallam/AEM-SunEditor/releases)
+
 ## Usage
 
 Here is a sample `cq:dialog`: 
